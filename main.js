@@ -1,3 +1,10 @@
+/**
+ * @author AlbertProfe
+ * @version 2.0
+ * @since 1.0
+ */
+
+
 const titulo = document.getElementById("titular");
 
 /** funcion que cambia el texto en el DOM
